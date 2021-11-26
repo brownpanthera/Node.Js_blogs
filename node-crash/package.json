@@ -1,0 +1,22 @@
+{
+  "name": "for-learning-nodejs",
+  "version": "1.0.0",
+  "description": "I am learning Nodejs with help of netninja youtube channel, whatever package I installed that is all the part are in my learning series",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ali Faizan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.13",
+    "morgan": "^1.10.0"
+  }
+}
